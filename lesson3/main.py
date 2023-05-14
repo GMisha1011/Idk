@@ -1,21 +1,21 @@
 from human import Human
 from auto import Auto
-Kirril = Human("Kirril", 1)
-Nikita = Human("Nikita", 0)
-Mykhail = Human("Mykhail", 0)
-Pavlo = Human("Pavlo", 0)
+kyrylo = Human("Kyrylo", 1)
+nikita = Human("Nikita", 0)
+mykhailo = Human("Mykhailo", 0)
+pavlo = Human("Pavlo", 0)
 humans = list()
-humans.append(Kirril)
-humans.append(Nikita)
-humans.append(Mykhail)
-humans.append(Pavlo)
+humans.append(kyrylo)
+humans.append(mykhailo)
+humans.append(pavlo)
+humans.append(nikita)
 auto = Auto("BMW X7")
-for Human in humans:
-    if(Human.Role == 1):
-        auto.AddDrivers(Human)
+for human in humans:
+    if(human.Role == 1):
+        auto.AddDrivers(human.Name)
     else:
-        auto.AddPassengers(Human)
+        auto.AddPassengers(human.Name)
 for driver in auto.Drivers:
-    print(f"Driver of {auto.Brand} is {driver}")
-for Passenger in auto.Passengers:
-    print(f"Passengers: {Passengers}")
+    auto.ToStringDriver(driver)
+for passenger in auto.Passengers:
+    auto.ToStringPassenger(passenger)

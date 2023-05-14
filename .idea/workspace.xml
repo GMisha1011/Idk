@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="266c42ec-a57d-45ca-bae1-452f19070508" name="Changes" comment="Lesson3">
+    <list default="true" id="266c42ec-a57d-45ca-bae1-452f19070508" name="Changes" comment="End of lesson3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/auto.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/auto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/human.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/human.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -174,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684060409544</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="End of lesson3">
+      <created>1684061061294</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1684061061294</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,6 +204,7 @@
     <MESSAGE value="Second commit again" />
     <MESSAGE value="Third commit" />
     <MESSAGE value="Lesson3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson3" />
+    <MESSAGE value="End of lesson3" />
+    <option name="LAST_COMMIT_MESSAGE" value="End of lesson3" />
   </component>
 </project>

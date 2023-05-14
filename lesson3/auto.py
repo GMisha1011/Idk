@@ -3,11 +3,11 @@ class Auto:
         self.Brand = brand
         self.Passengers = list()
         self.Drivers = list()
-
     def AddPassengers(self, human):
         self.Passengers.append(human)
     def AddDrivers(self, human):
-        self.Passengers.append(human)
-
-    def ToString(self):
-        print(f"Brand: {self.Brand}")
+        self.Drivers.append(human)
+    def ToStringDriver(self, driverName):
+        print(f"Driver of: {self.Brand} is {driverName}")
+    def ToStringPassenger(self, passengerName):
+        print(f"Passenger of: {self.Brand} is {passengerName}")
