@@ -1,4 +1,4 @@
-class buildingerror(Exception):
+class BuildingError(Exception):
     def __init__(self, amount, limit):
         self.Amount = amount
         self.Limit = limit
