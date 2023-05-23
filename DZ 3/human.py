@@ -1,8 +1,8 @@
 class Human:
 #constructor __init__
-    def __init__(self, name, group):
+    def __init__(self, name, role):
         self.Name = name
-        self.Group = group
+        self.Role = role
     def ToString(self):
         print(f"Name: {self.Name}\n"
-        f"Group: {self.Group}")
+        f"Group: {self.Role}\n")

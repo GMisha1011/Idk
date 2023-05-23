@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="266c42ec-a57d-45ca-bae1-452f19070508" name="Changes" comment="lesson 6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson6/buildingerror.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson6/buildingerror.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ 3/group.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ 3/group.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ 3/human.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ 3/human.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ 3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ 3/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +73,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson6/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ 3/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684671899974</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="lesson 6">
+      <created>1684671927147</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1684671927147</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
