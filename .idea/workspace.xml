@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="266c42ec-a57d-45ca-bae1-452f19070508" name="Changes" comment="lesson 6">
+    <list default="true" id="266c42ec-a57d-45ca-bae1-452f19070508" name="Changes" comment="DZ 3">
+      <change afterPath="$PROJECT_DIR$/DZ 4/catordog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DZ 4/human.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DZ 4/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DZ 4/speak.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ 3/group.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ 3/group.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ 3/human.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ 3/human.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ 3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ 3/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +74,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ 3/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ 4/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684671927147</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="DZ 3">
+      <created>1684849647427</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1684849647427</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -260,6 +268,7 @@
     <MESSAGE value="DZ 2" />
     <MESSAGE value="lesson 5" />
     <MESSAGE value="lesson 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 6" />
+    <MESSAGE value="DZ 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="DZ 3" />
   </component>
 </project>
