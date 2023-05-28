@@ -1,0 +1,3 @@
+We have next logging message: 2023-05-28 11:26:23,181:INFO-Entered digit2: 5
+We have next logging message: 2023-05-28 11:26:27,317:INFO-Entered digit2: 4
+We have next logging message: 2023-05-28 11:26:33,155:ERROR-invalid literal for int() with base 10: '0.00000000000001'

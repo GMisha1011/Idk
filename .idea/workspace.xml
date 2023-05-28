@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="266c42ec-a57d-45ca-bae1-452f19070508" name="Changes" comment="DZ 4">
-      <change afterPath="$PROJECT_DIR$/lesson7/counter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7/generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7/iteration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7/main.py" afterDir="false" />
+    <list default="true" id="266c42ec-a57d-45ca-bae1-452f19070508" name="Changes" comment="Lesson 7">
+      <change afterPath="$PROJECT_DIR$/lesson8/lesson8log.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson8/mainLog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson8/mainTest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +59,7 @@
       <recent name="D:\pythonProject" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.mainTest">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Lesson_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,8 +103,52 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="mainLog" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lesson_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\pythonProject\lesson8\mainLog.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mainTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lesson_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson8/mainTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.mainTest" />
+        <item itemvalue="Python.mainLog" />
         <item itemvalue="Python.main (1)" />
       </list>
     </recent_temporary>
@@ -273,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684947785497</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Lesson 7">
+      <created>1685258959755</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1685258959755</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -303,6 +353,7 @@
     <MESSAGE value="lesson 6" />
     <MESSAGE value="DZ 3" />
     <MESSAGE value="DZ 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="DZ 4" />
+    <MESSAGE value="Lesson 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 7" />
   </component>
 </project>
