@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="266c42ec-a57d-45ca-bae1-452f19070508" name="Changes" comment="DZ 6">
-      <change afterPath="$PROJECT_DIR$/DZ 7/main.py" afterDir="false" />
+    <list default="true" id="266c42ec-a57d-45ca-bae1-452f19070508" name="Changes" comment="DZ 7">
+      <change afterPath="$PROJECT_DIR$/DZ 8/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -393,7 +393,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685529793857</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="DZ 7">
+      <created>1686079150691</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1686079150691</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -427,6 +434,7 @@
     <MESSAGE value="Lesson 8" />
     <MESSAGE value="DZ 5" />
     <MESSAGE value="DZ 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="DZ 6" />
+    <MESSAGE value="DZ 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="DZ 7" />
   </component>
 </project>
